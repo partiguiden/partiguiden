@@ -12,6 +12,7 @@ const config = tseslint.config(...baseConfig, ...nextConfig, {
     parserOptions: {
       project: [
         "./apps/web/tsconfig.json",
+        "./apps/mobile/tsconfig.json",
         "./tsconfig.json",
         "./packages/*/tsconfig.json",
       ],

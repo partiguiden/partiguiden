@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "Partiguiden",
+    "slug": "partiguiden",
+    "orientation": "portrait",
+    "scheme": "se.partiguiden",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "plugins": ["expo-router"],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
