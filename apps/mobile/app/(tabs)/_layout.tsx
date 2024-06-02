@@ -5,12 +5,7 @@ import { TabBarIcon } from "@components/navigation/TabBarIcon";
 
 export default function TabLayout() {
   return (
-    <Tabs
-      screenOptions={{
-        headerShown: false,
-      }}
-      initialRouteName="index"
-    >
+    <Tabs initialRouteName="index">
       <Tabs.Screen
         name="index"
         options={{
