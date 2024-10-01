@@ -21,6 +21,12 @@ const config: Config = {
     "./components/**/*.{ts,tsx}",
     "./app/**/*.{ts,tsx}",
   ],
+  safelist: [
+    {
+      // Classes used for the document page
+      pattern: /^parliament-.+$/,
+    },
+  ],
   future: {
     hoverOnlyWhenSupported: true,
   },

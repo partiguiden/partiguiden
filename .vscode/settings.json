@@ -6,5 +6,12 @@
   },
   "tailwindCSS.experimental.classRegex": [
     ["(?:twMerge|twJoin)\\(([^\\);]*)[\\);]", "[`'\"`]([^'\"`,;]*)[`'\"`]"]
-  ]
+  ],
+  "files.associations": {
+    "*.css": "tailwindcss"
+  },
+  "editor.quickSuggestions": {
+    "strings": "on"
+  },
+  "cSpell.words": ["Avvikandemeningrubrik"]
 }
