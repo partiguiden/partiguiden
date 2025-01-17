@@ -21,7 +21,7 @@
     "@heroicons/react": "2.2.0",
     "@next/third-parties": "15.1.4",
     "@partiguiden/party-data": "workspace:*",
-    "@sentry/nextjs": "8.48.0",
+    "@sentry/nextjs": "8.50.0",
     "@supercharge/promise-pool": "3.2.0",
     "cheerio": "1.0.0",
     "next": "15.1.4",
