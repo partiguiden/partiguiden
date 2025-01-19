@@ -1,11 +1,9 @@
 {
   "https://www.vansterpartiet.se/var-politik/politik-a-o/abort/": {
-    "opinions": [
-      "Alla kvinnor ska ha rätt att bestämma över sin egen kropp. Fri abort är en förutsättning för att alla barn som föds ska vara välkomna men är också en hälsofråga för kvinnor, både fysiskt och psykiskt. Det är kvinnans rätt att avgöra om och när hon vill ha barn."
-    ],
+    "opinions": [],
     "title": "Abort",
     "url": "https://www.vansterpartiet.se/var-politik/politik-a-o/abort/",
-    "fetchDate": "2023-09-17T17:52:39.257Z",
+    "fetchDate": "2025-01-19T06:26:09.838Z",
     "party": "V",
     "subject": "vard-och-omsorg"
   },
@@ -22,12 +20,10 @@
     "subject": "trygghetssystem-och-valfard"
   },
   "https://www.vansterpartiet.se/var-politik/politik-a-o/antirasism/": {
-    "opinions": [
-      "Vänsterpartiet vill ha ett samhälle för alla, fritt från rasism. Rasism sorterar och underordnar människor och därför är rasism ett hinder för rättvisa och jämlikhet."
-    ],
+    "opinions": [],
     "title": "Antirasism",
     "url": "https://www.vansterpartiet.se/var-politik/politik-a-o/antirasism/",
-    "fetchDate": "2023-09-17T17:52:40.312Z",
+    "fetchDate": "2025-01-19T06:26:14.719Z",
     "party": "V",
     "subject": "jamstalldhet-och-diskriminering"
   },
@@ -86,12 +82,10 @@
     "subject": "ekonomi-och-skatter"
   },
   "https://www.vansterpartiet.se/var-politik/politik-a-o/barns-och-unga-rattigheter/": {
-    "opinions": [
-      "I ett jämlikt samhälle är allas rättigheter lika viktiga och därför måste barns rättigheter stärkas."
-    ],
+    "opinions": [],
     "title": "Barns och ungas rättigheter",
     "url": "https://www.vansterpartiet.se/var-politik/politik-a-o/barns-och-unga-rattigheter/",
-    "fetchDate": "2023-09-17T17:52:36.325Z",
+    "fetchDate": "2025-01-19T06:26:11.920Z",
     "party": "V",
     "subject": "jamstalldhet-och-diskriminering"
   },
@@ -138,12 +132,10 @@
     "subject": "utbildning"
   },
   "https://www.vansterpartiet.se/var-politik/politik-a-o/droger-och-beroende/": {
-    "opinions": [
-      "Alla har rätt till en bra hälsa och vård. Idag har ungefär 100 000 personer ett missbruk av narkotika eller läkemedel. Många våldsbrott begås under påverkan av droger. Tillgången till droger måste begränsas kraftfullt och det preventiva arbetet stärkas."
-    ],
+    "opinions": [],
     "title": "Droger och beroende",
     "url": "https://www.vansterpartiet.se/var-politik/politik-a-o/droger-och-beroende/",
-    "fetchDate": "2023-09-17T17:52:37.941Z",
+    "fetchDate": "2025-01-19T06:26:11.550Z",
     "party": "V",
     "subject": "vard-och-omsorg"
   },
@@ -198,12 +190,10 @@
     "subject": "energi"
   },
   "https://www.vansterpartiet.se/var-politik/politik-a-o/ensamkommande-barn-och-unga/": {
-    "opinions": [
-      "Vänsterpartiet vill se en mänsklig, välkomnande och rättssäker flyktingpolitik i Sverige och Europa."
-    ],
+    "opinions": [],
     "title": "Ensamkommande barn och unga",
     "url": "https://www.vansterpartiet.se/var-politik/politik-a-o/ensamkommande-barn-och-unga/",
-    "fetchDate": "2023-09-17T17:52:39.766Z",
+    "fetchDate": "2025-01-19T06:26:11.893Z",
     "party": "V",
     "subject": "migration-och-integration"
   },
@@ -228,12 +218,10 @@
     "subject": "utbildning"
   },
   "https://www.vansterpartiet.se/var-politik/politik-a-o/forlossningsvard/": {
-    "opinions": [
-      "Den som föder barn ska känna sig trygg med att få den vård som behövs. Vårt mål är ett det ska finnas en barnmorska för varje förlossning."
-    ],
+    "opinions": [],
     "title": "Förlossningsvård",
     "url": "https://www.vansterpartiet.se/var-politik/politik-a-o/forlossningsvard/",
-    "fetchDate": "2023-09-17T17:52:36.168Z",
+    "fetchDate": "2025-01-19T06:26:11.912Z",
     "party": "V",
     "subject": "vard-och-omsorg"
   },
@@ -248,32 +236,26 @@
     "subject": "jobb"
   },
   "https://www.vansterpartiet.se/var-politik/politik-a-o/feminism/": {
-    "opinions": [
-      "Vi i Vänsterpartiet är feminister. Det innebär att vi ser att män generellt överordnas kvinnor i vårt samhälle. Genom vår feministiska politik arbetar vi för att förändra detta."
-    ],
+    "opinions": [],
     "title": "Feminism",
     "url": "https://www.vansterpartiet.se/var-politik/politik-a-o/feminism/",
-    "fetchDate": "2023-09-17T17:52:36.352Z",
+    "fetchDate": "2025-01-19T06:26:18.809Z",
     "party": "V",
     "subject": "jamstalldhet-och-diskriminering"
   },
   "https://www.vansterpartiet.se/var-politik/politik-a-o/flyktingpolitik/": {
-    "opinions": [
-      "Människor på flykt behöver få skydd, därför vill vi försvara asylrätten. Sverige ska inte vara ett land som splittrar familjer. Vi vill bygga ett starkt samhälle med robust välfärd och politik för full sysselsättning. Det är så man löser samhällsproblemen, inte genom att urholka asylrätten."
-    ],
+    "opinions": [],
     "title": "Flyktingpolitik",
     "url": "https://www.vansterpartiet.se/var-politik/politik-a-o/flyktingpolitik/",
-    "fetchDate": "2023-09-17T17:52:39.757Z",
+    "fetchDate": "2025-01-19T06:26:12.092Z",
     "party": "V",
     "subject": "migration-och-integration"
   },
   "https://www.vansterpartiet.se/var-politik/politik-a-o/funktionsratt/": {
-    "opinions": [
-      "Alla människor har lika värde och alla människor har kunskaper, förmågor och erfarenheter som är viktiga för samhället. Den som lever sitt liv med en normbrytande funktionalitet ska ha samma möjlighet till ett gott liv som alla andra."
-    ],
+    "opinions": [],
     "title": "Funktionsrätt",
     "url": "https://www.vansterpartiet.se/var-politik/politik-a-o/funktionsratt/",
-    "fetchDate": "2023-09-17T17:52:40.643Z",
+    "fetchDate": "2025-01-19T06:26:18.347Z",
     "party": "V",
     "subject": "vard-och-omsorg"
   },
@@ -308,22 +290,18 @@
     "subject": "forsvar"
   },
   "https://www.vansterpartiet.se/var-politik/politik-a-o/foraldraforsakringen/": {
-    "opinions": [
-      "Att föräldrar ska fördela ansvar för hem och barn lika är en av de mest centrala jämställdhetsfrågorna. Ett jämnare uttag av föräldraledighet skulle göra att kvinnors inkomster och hälsa ökar och att män tar större ansvar för hem och barn. Alla barn har rätt till en bra relation med båda sina föräldrar."
-    ],
+    "opinions": [],
     "title": "Föräldraförsäkringen",
     "url": "https://www.vansterpartiet.se/var-politik/politik-a-o/foraldraforsakringen/",
-    "fetchDate": "2023-09-17T17:52:36.428Z",
+    "fetchDate": "2025-01-19T06:26:12.142Z",
     "party": "V",
     "subject": "familjen"
   },
   "https://www.vansterpartiet.se/var-politik/politik-a-o/gardsforsaljning/": {
-    "opinions": [
-      "Vänsterpartiet står för en solidarisk och restriktiv alkoholpolitik som innebär att alkohol inte ska vara tillgängligt som om det var vilken vara som helst."
-    ],
+    "opinions": [],
     "title": "Gårdsförsäljning",
     "url": "https://www.vansterpartiet.se/var-politik/politik-a-o/gardsforsaljning/",
-    "fetchDate": "2023-09-17T17:52:35.357Z",
+    "fetchDate": "2025-01-19T06:26:18.826Z",
     "party": "V",
     "subject": "naringsliv"
   },
@@ -338,12 +316,10 @@
     "subject": "lag-och-ratt"
   },
   "https://www.vansterpartiet.se/var-politik/politik-a-o/halso-och-sjukvardens-huvudmannaskap/": {
-    "opinions": [
-      "Det regionala självstyret kan vara en stor tillgång i arbetet för ett regionalt anpassat förebyggande arbete, folkhälsoarbete och andra insatser med regional prägel, men det får aldrig ske på bekostnad av jämlikheten."
-    ],
+    "opinions": [],
     "title": "Hälso- och sjukvårdens huvudmannaskap",
     "url": "https://www.vansterpartiet.se/var-politik/politik-a-o/halso-och-sjukvardens-huvudmannaskap/",
-    "fetchDate": "2023-09-17T17:52:35.396Z",
+    "fetchDate": "2025-01-19T06:26:17.265Z",
     "party": "V",
     "subject": "vard-och-omsorg"
   },
@@ -358,22 +334,18 @@
     "subject": "naringsliv"
   },
   "https://www.vansterpartiet.se/var-politik/politik-a-o/hbtqi/": {
-    "opinions": [
-      "Alla människor ska ha samma rättigheter oavsett sexuell läggning, könsidentitet eller könsuttryck."
-    ],
-    "title": "Hbtqi",
+    "opinions": [],
+    "title": "HBTQIA+",
     "url": "https://www.vansterpartiet.se/var-politik/politik-a-o/hbtqi/",
-    "fetchDate": "2023-09-17T17:52:41.195Z",
+    "fetchDate": "2025-01-19T06:26:17.937Z",
     "party": "V",
     "subject": "jamstalldhet-och-diskriminering"
   },
   "https://www.vansterpartiet.se/var-politik/politik-a-o/hedersvald/": {
-    "opinions": [
-      "Hedersrelaterat våld och förtryck har, liksom mäns våld mot kvinnor i övrigt, generellt sin grund i kön, sexualitet, makt och kulturella föreställningar om dessa."
-    ],
+    "opinions": [],
     "title": "Hedersvåld",
     "url": "https://www.vansterpartiet.se/var-politik/politik-a-o/hedersvald/",
-    "fetchDate": "2023-09-17T17:52:38.262Z",
+    "fetchDate": "2025-01-19T06:26:18.112Z",
     "party": "V",
     "subject": "lag-och-ratt"
   },
@@ -389,16 +361,6 @@
     "fetchDate": "2023-09-17T17:52:38.884Z",
     "party": "V",
     "subject": "bostad"
-  },
-  "https://www.vansterpartiet.se/var-politik/politik-a-o/hoghastighetsbanor/": {
-    "opinions": [
-      "Dagens järnvägssystem har stor kapacitetsbrist. Vi behöver därför bygga mer järnväg, inte minst nya stambanor för snabba tåg."
-    ],
-    "title": "Höghastighetsbanor",
-    "url": "https://www.vansterpartiet.se/var-politik/politik-a-o/hoghastighetsbanor/",
-    "fetchDate": "2023-09-17T17:52:39.112Z",
-    "party": "V",
-    "subject": "infrastruktur-och-trafik"
   },
   "https://www.vansterpartiet.se/var-politik/politik-a-o/hogskolan-och-yrkeshogskolan/": {
     "opinions": [
